@@ -1,0 +1,19 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Introduction}{1}%
+\contentsline {section}{\numberline {1.1}What is the `Zoom Cloud Meeting' App?}{1}%
+\contentsline {section}{\numberline {1.2}Applications of this App}{1}%
+\contentsline {section}{\numberline {1.3}Who made this wonderful piece of software?}{2}%
+\contentsline {chapter}{\numberline {2}Installation}{3}%
+\contentsline {section}{\numberline {2.1}How do you install this piece of jewel?}{3}%
+\contentsline {subsection}{\numberline {2.1.1}Access the App Store to search for the App}{3}%
+\contentsline {chapter}{\numberline {3}Application Usage}{5}%
+\contentsline {section}{\numberline {3.1}How do you open the app?}{5}%
+\contentsline {section}{\numberline {3.2}What do you do once you have opened this forbidden treasure?}{6}%
+\contentsline {subsection}{\numberline {3.2.1}First Time Use Page}{6}%
+\contentsline {subsection}{\numberline {3.2.2}Landing Page}{8}%
+\contentsline {subsection}{\numberline {3.2.3}How do I join a meeting?}{9}%
+\contentsline {subsubsection}{Join a Meeting with the help of Meeting ID}{9}%
+\contentsline {subsubsection}{Join a Meeting with the help of an Invite Link}{10}%
+\contentsline {subsection}{\numberline {3.2.4}I've entered a meeting. What do I do now?}{10}%
+\contentsline {subsection}{\numberline {3.2.5}How do I exit the Meeting?}{12}%
+\contentsline {subsection}{\numberline {3.2.6}Want to host your own Meeting?}{12}%
